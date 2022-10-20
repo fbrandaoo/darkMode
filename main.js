@@ -1,0 +1,1 @@
+let checkbox=document.querySelector("#chk");checkbox.addEventListener("change",()=>{document.body.classList.toggle("dark")});
